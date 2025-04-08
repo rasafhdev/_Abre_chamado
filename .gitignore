@@ -1,0 +1,5 @@
+*venv
+
+*_pycache
+_pycache
+__pycache__
